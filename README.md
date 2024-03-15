@@ -10,6 +10,10 @@ python --version
 
 pip install ply 
 
-4-Por ultimo, en nuestro interprete de preferencia( en nuestro caso Visual Studio) agregamos las extensiones de python y cargamos el programa.
+4-El paso siguiente sera instalar el coloroma y para ello usamos el comando desde el CMD:
+
+pip install colorama
+
+5-Por ultimo, en nuestro interprete de preferencia (en nuestro caso Visual Studio) agregamos las extensiones de python y cargamos el programa.
 
  
